@@ -1,0 +1,55 @@
+#-------
+# use_magnetic_field
+# values: true, false
+# 
+use_magnetic_field false
+#-------
+# magnetic_field_dile_name
+#
+magnetic_field_file_name NA
+#-------
+# geometry_file_name
+#
+geometry_file_name geometry_real_4.json
+#-------
+# input_root_file_name
+#
+
+input_root_file_name production_30gev_proton_carbon_real_4_multi_track.root
+
+#-------
+# input_root_ssd_energy_tree_name
+#
+
+input_root_ssd_energy_tree_name ssd_energy
+
+#-------
+# input_root_particle_truth_tree_name
+#
+
+input_root_particle_truth_tree_name particle_truth
+
+#-------
+# input_root_steps_truth_tree_name
+#
+
+input_root_steps_truth_tree_name steps_truth
+
+#-------
+# output_root_file_name
+#
+
+output_root_file_name output.root
+
+#-------
+# number_of_events_to_process
+# values: all, 1, 2, ...
+#
+
+number_of_events_to_process 10
+
+#-------
+# cluster_interpretation_method
+#
+
+cluster_interpretation_method weighted

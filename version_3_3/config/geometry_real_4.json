@@ -1,0 +1,152 @@
+{
+  "plate" :
+	{
+		"id" : 0,
+    "group" : 0,
+    "intended_strip_direction" : [1., 0., 0.],
+		"efficiency" : 0.9920,
+		"position" : [0., 0., -32.0],
+		"rotation" : [0., 0., 90.],
+    "size" : [3.84, 3.84],
+    "number_of_strips" : 640
+	},
+  "plate" :
+  {
+    "id" : 1,
+    "group" : 0,
+    "intended_strip_direction" : [0., 1., 0.],
+    "efficiency" : 0.9920,
+    "position" : [0., 0., -31.4],
+    "rotation" : [0., 0., 0.],
+    "size" : [3.84, 3.84],
+    "number_of_strips" : 640
+  },
+  "plate" :
+  {
+    "id" : 2,
+    "group" : 1,
+    "intended_strip_direction" : [1., 0., 0.],
+    "efficiency" : 0.9920,
+    "position" : [0., 0., -2.4],
+    "rotation" : [0., 0., 90.],
+    "size" : [3.84, 3.84],
+    "number_of_strips" : 640
+  },
+  "plate" :
+  {
+    "id" : 3,
+    "group" : 1,
+    "intended_strip_direction" : [0., 1., 0.],
+    "efficiency" : 0.9920,
+    "position" : [0., 0., -1.8],
+    "rotation" : [0., 0., 0.],
+    "size" : [3.84, 3.84],
+    "number_of_strips" : 640
+  },
+  "plate" :
+  {
+    "id" : 4,
+    "group" : 2,
+    "intended_strip_direction" : [1., 0., 0.],
+    "efficiency" : 0.9920,
+    "position" : [0., 0., 1.2],
+    "rotation" : [0., 0., 90.],
+    "size" : [3.84, 3.84],
+    "number_of_strips" : 640
+  },
+  "plate" :
+  {
+    "id" : 5,
+    "group" : 2,
+    "intended_strip_direction" : [0., 1., 0.],
+    "efficiency" : 0.9920,
+    "position" : [0., 0., 1.8],
+    "rotation" : [0., 0., 0.],
+    "size" : [3.84, 3.84],
+    "number_of_strips" : 640
+  },
+  "plate" :
+  {
+    "id" : 6,
+    "group" : 3,
+    "intended_strip_direction" : [-1., 1., 0.],
+    "efficiency" : 0.9920,
+    "position" : [0., 0., 5.4],
+    "rotation" : [0., 0., 45.],
+    "size" : [3.84, 3.84],
+    "number_of_strips" : 640
+  },
+  "plate" :
+  {
+    "id" : 7,
+    "group" : 3,
+    "intended_strip_direction" : [1., 0., 0.],
+    "efficiency" : 0.9920,
+    "position" : [0., 0., 6.0],
+    "rotation" : [0., 0., 90.],
+    "size" : [3.84, 3.84],
+    "number_of_strips" : 640
+  },
+  "plate" :
+  {
+    "id" : 8,
+    "group" : 3,
+    "intended_strip_direction" : [0., 1., 0.],
+    "efficiency" : 0.9920,
+    "position" : [0., 0., 6.6],
+    "rotation" : [0., 0.,  0.],
+    "size" : [3.84, 3.84],
+    "number_of_strips" : 640
+  },
+  "plate" :
+  {
+    "id" : 9,
+    "group" : 4,
+    "intended_strip_direction" : [1., 0., 0.],
+    "efficiency" : 0.9920,
+    "position" : [0., 0., 24.0],
+    "rotation" : [0., 0., 90.],
+    "size" : [7.68, 7.68],
+    "number_of_strips" : 1280
+  },
+  "plate" :
+  {
+    "id" : 10,
+    "group" : 4,
+    "intended_strip_direction" : [0., 1., 0.],
+    "efficiency" : 0.9920,
+    "position" : [0., 0., 24.6],
+    "rotation" : [0., 0., 0.],
+    "size" : [7.68, 7.68],
+    "number_of_strips" : 1280
+  },
+  "plate" :
+  {
+    "id" : 11,
+    "group" : 5,
+    "intended_strip_direction" : [1., 0., 0.],
+    "efficiency" : 0.9920,
+    "position" : [0., 0., 36.6],
+    "rotation" : [0., 0., 90.],
+    "size" : [7.68, 7.68],
+    "number_of_strips" : 1280
+  },
+  "plate" :
+  {
+    "id" : 12,
+    "group" : 5,
+    "intended_strip_direction" : [0., 1., 0.],
+    "efficiency" : 0.9920,
+    "position" : [0., 0., 37.2],
+    "rotation" : [0., 0., 0.],
+    "size" : [7.68, 7.68],
+    "number_of_strips" : 1280
+  },
+  "target" :
+  {
+    "position" : [0., 0., 0.],
+    "rotation" : [0., 0., 0.],
+    "size" : [20.0, 20.0, 2.0],
+    "material" : carbon
+  }
+}
